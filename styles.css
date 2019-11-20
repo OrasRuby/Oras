@@ -1,0 +1,52 @@
+ body   {
+            font-family: sans-serif;
+            font-size: 1em;
+            line-height: 1.5em;
+        }
+
+ header
+        {
+            background-color: blue;
+            color: white;
+            padding: 5px;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+ nav
+       {
+            line-height: 30px;
+            background-color: #eeeeee;
+            width: 200px;
+            height: 450px;
+            float: left;
+            padding: 5px;
+       {
+
+ section {
+            width:350px;
+            float:left;
+            padding: 10px;
+            border: 1px;
+         }
+
+ /*footer{
+            background-color: blue;
+            color:white;
+            clear: both;
+            text-align: 5px;
+            font-size: 0.75em;
+            font-style: italic;
+        }*/
+
+ img {
+            width: 100px;
+            padding: 10px;
+            height: 150px;
+            margin-bottom: 20px;
+            border: 1px;
+
+            float: center;
+            background-position: center;
+     }
+
